@@ -15,7 +15,7 @@ Soy estudiante del **Grado Superior de Desarrollo de Aplicaciones Web**. Me apas
 
 🎓 **Full-Stack-Template**  
 Un template base para proyectos full-stack con autenticación mediante JWT y una vista de administrador para gestión CRUD.  
-📂 [Repositorio del proyecto](https://github.com/rfrancop01/fullstack-template)
+📂 [Repositorio del proyecto](https://github.com/rfrancop01/Full-Stack-Template)
 
 ## 📁 Otros proyectos
 
