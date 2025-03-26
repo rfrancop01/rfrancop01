@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Mi nombre es Ricardo Franco Pérez
 
-Soy estudiante del **Grado Superior de Desarrollo de Aplicaciones Web**. Me apasiona el desarrollo full-stack, la creación de soluciones útiles y el aprendizaje continuo. En este perfil encontrarás proyectos personales, educativos y herramientas que he desarrollado durante mi formación.
+Soy desarrollador web Full Stack. Me apasiona el desarrollo full-stack, la creación de soluciones útiles y el aprendizaje continuo. En este perfil encontrarás proyectos personales, educativos y herramientas que he desarrollado durante mi formación.
 
 🎯 Me encuentro en búsqueda activa de oportunidades laborales en el área de desarrollo, tanto en el backend como en el frontend.
 
@@ -19,7 +19,7 @@ Un template base para proyectos full-stack con autenticación mediante JWT y una
 
 ## 📁 Otros proyectos
 
-Aquí tienes algunos de los repositorios que he trabajado:
+Aquí tienes algunos de los repositorios que he realizado:
 
 - 🔗 [Plataforma-de-traslado-de-vehiculos](https://github.com/rfrancop01/Plataforma-de-traslado-de-vehiculos): Aplicación que conecta clientes con proveedores de transporte de vehículos.
 - 🔗 [Blog-Starwars-Full-Stack-Project](https://github.com/rfrancop01/Blog-Starwars-Full-Stack-Project): Blog de Star Wars con login y favoritos.
