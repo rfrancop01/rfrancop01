@@ -6,10 +6,10 @@ Soy desarrollador web Full Stack. Me apasiona el desarrollo full-stack, la creac
 
 ## 🧱 Tecnologías que uso
 
-- 🐍 **Backend**: Python, Flask, Flask-JWT-Extended, SQLAlchemy
-- 🌐 **Frontend**: HTML, CSS (Bootstrap), JavaScript (React)
+- 🐍 **Backend**: Python, Flask, Flask-JWT-Extended, SQLAlchemy, PHP, Symfony
+- 🌐 **Frontend**: HTML, CSS (Bootstrap), JavaScript (React), Angular
 - 🗄️ **Base de Datos**: SQLite, PostgreSQL, SQLAlchemy ORM
-- ⚙️ **Herramientas**: Git, GitHub, Pipenv, Postman, VS Code
+- ⚙️ **Herramientas**: Git, GitHub, Pipenv, Postman, VS Code, DBeaver
 
 ## 🚀 Proyecto en curso
 
